@@ -1,0 +1,6 @@
+rootProject.name = 'community'
+include 'demo-web'
+include 'demo-domain'
+include 'community-web'
+include 'community-domain'
+
