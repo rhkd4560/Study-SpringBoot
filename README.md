@@ -93,7 +93,8 @@
 ---
 
 ## (3) Chapter 4
-#### 1. [MVC 패턴]()
+#### 1. [MVC 패턴](https://github.com/ber01/Study-Spring-Boot/tree/master/keyword/MVC)
+
 
 #### 2. [타임리프(Tymeleaf)]()
 - 텍스트, HTML, XML, Javascript, CSS 그리고 텍스트를 생성할 수 있는 템플릿 엔진이다.
@@ -114,7 +115,7 @@
  3. 유지보수에 용이하다
 하나의 Template을 만들어 여러 페이지를 렌더링하는 작업에는 또 다른 이점이 있다.
 
-#### 4. [의존 라이브러리]()
+#### 4. [의존 라이브러리](https://github.com/dongh9508/Study-SpringBoot2/tree/master/keyword/LINK/dependency%20library)
 - Web
 - 타임리프
 - JPA
@@ -122,7 +123,7 @@
 - 롬복
 - H2
 
-#### 5. [각종 어노테이션 모음]()
+#### 5. [각종 어노테이션 모음](https://github.com/etg6550/2019WinterProject/tree/master/Day4/HomeWork)
 - Serializable
 - @Getter
 - @NoArgsConstructor
