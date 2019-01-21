@@ -1,3 +1,4 @@
+### [부가 설명](https://github.com/etg6550/2019WinterProject/tree/master/Day6)
 ## 1. [Spring Security]()
 
 #### Spring Security는 보안에서 중요한 요소인 인증과 권한 처리를 쉽게 하도록 도와줍니다.
