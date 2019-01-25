@@ -132,3 +132,38 @@
 - @Id
 - @Column
 - @Builder
+
+---
+
+## (4) Chapter 5
+#### 1. [스프링 부트 시큐리티, OAuth2](https://github.com/etg6550/2019WinterProject/tree/master/Day6)
+- 소개
+- 인증 수행 방법
+- 권한 부여 코드 승인타입
+
+#### 2. [각종 어노테이션 및 인터페이스](https://github.com/pdh6547/study-spring-boot/blob/master/Keyword/Homework/Annotaion%20and%20Interface.md)
+- @NestedConfigurationProperty
+- AuthorizationCodeResourceDetails
+- ResourceServerProperties
+  - OAuth2 리소스 값
+- @Configuration
+- 동기, 비동기 통신
+
+#### 3. [각종 어노테이션 및 인터페이스2](https://github.com/hagome0/Study-Spring-Boot/tree/master/keyword/Annotaion%20and%20Interface2)
+- @EnableWebSecurity
+- WebSecurityConfigurerAdapter
+- HttpServletRequest
+- XFrameOptionsHeaderWriter
+- CharacterEncodingFilter
+- CsrfFilter
+
+#### 4. [각종 어노테이션 및 인터페이스3](https://github.com/woghd9072/study-spring-boot/tree/master/Keyword/Homework)
+- @EnableOAuth2Client
+- OAuth2ClientContext
+- BasicAuthenticationFilter
+- FilterRegistrationBean
+- Filter
+- CompositeFilter
+- OAuth2ClientAuthenticationProcessingFilter
+- OAuth2RestTemplate
+- UserInfoTokenService

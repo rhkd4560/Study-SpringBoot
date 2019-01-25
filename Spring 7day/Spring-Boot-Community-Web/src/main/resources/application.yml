@@ -1,7 +1,7 @@
 facebook:
   client:
-    clientId : clientIdTest
-    clientSecret : clientSecretTest
+    clientId : 2246360872313413
+    clientSecret :
     accessTokenUri : https://graph.facebook.com/oauth/access_token
     userAuthorizationUri : https://www.facebook.com/dialog/oauth?display=popup
     tokenName : oauth_token
@@ -11,10 +11,22 @@ facebook:
   resource:
     userInfoUri: https://graph.facebook.com/me?fields = id,name,email,link
 
+naver :
+  client :
+    clientId : 6zLJbjmetKCNzxV1fwuR
+    clientSecret : 
+    accessTokenUri : https://nid.naver.com/oauth2.0/token
+    userAuthorizationUri : https://nid.naver.com/oauth2.0/authorize
+    tokenName : oauth_token
+    authenticationScheme : query
+    clientAuthenticationScheme: form
+  resource:
+    userInfoUri : https://openapi.naver.com/v1/nid/me
+
 google :
   client :
-    clientId : clientIdTest
-    clientSecret : clientSecretTest
+    clientId : 951589078582-uhucukn4k8ar9evol2mvnps6v31jmo08.apps.googleusercontent.com
+    clientSecret :
     accessTokenUri : https://accounts.google.com/o/oauth2/token
     userAuthorizationUri : https://accounts.google.com/o/oauth2/auth
     scope : email, profile
@@ -23,7 +35,7 @@ google :
 
 kakao:
   client:
-    clientId : clientIdTest
+    clientId :
     accessTokenUri : https://kauth.kakao.com/oauth/token
     userAuthorizationUri : https://kauth.kakao.com/oauth/authorize
   resource :
