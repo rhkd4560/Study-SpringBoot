@@ -1,0 +1,28 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+  h2:
+    console:
+      enabled: true
+      path: /console
+  devtools:
+    livereload:
+      enabled: true
+  thymeleaf:
+    cache: false
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 951589078582-uhucukn4k8ar9evol2mvnps6v31jmo08.apps.googleusercontent.com
+            client-secret:
+          facebook:
+            client-id: 2246360872313413
+            client-secret: 
+
+custom:
+  oauth2:
+    kakao:
+      client-id: 087095fdf1fc647d128a2fda9f570021
